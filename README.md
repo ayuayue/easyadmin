@@ -1,34 +1,7 @@
 
-![EasyAdmin-logo](public/static/common/images/logo-2.png)
-
-
-[![Php Version](https://img.shields.io/badge/php-%3E=7.1.0-brightgreen.svg?maxAge=2592000&color=yellow)](https://github.com/php/php-src)
-[![Mysql Version](https://img.shields.io/badge/mysql-%3E=5.7-brightgreen.svg?maxAge=2592000&color=orange)](https://www.mysql.com/)
-[![Thinkphp Version](https://img.shields.io/badge/thinkphp-%3E=6.0.2-brightgreen.svg?maxAge=2592000)](https://github.com/top-think/framework)
-[![Layui Version](https://img.shields.io/badge/layui-=2.5.5-brightgreen.svg?maxAge=2592000&color=critical)](https://github.com/sentsin/layui)
-[![Layuimini Version](https://img.shields.io/badge/layuimini-%3E=2.0.4.2-brightgreen.svg?maxAge=2592000&color=ff69b4)](https://github.com/zhongshaofa/layuimini)
-[![EasyAdmin Doc](https://img.shields.io/badge/docs-passing-green.svg?maxAge=2592000)](http://easyadmin.99php.cn/docs)
-[![EasyAdmin License](https://img.shields.io/badge/license-MIT-green?maxAge=2592000&color=blue)](https://github.com/zhongshaofa/easyadmin/blob/v2/LICENSE)
-
 ## 项目介绍
 
 基于ThinkPHP6.0和layui的快速开发的后台管理系统。
-
-技术交流QQ群：[763822524](https://jq.qq.com/?_wv=1027&k=5IHJawE) `加群请备注来源：如gitee、github、官网等`。
-
-## 站点地址
-
-* 官方网站：[http://easyadmin.99php.cn](http://easyadmin.99php.cn)
-
-* 文档地址：[http://easyadmin.99php.cn/docs](http://easyadmin.99php.cn/docs)
-
-* 演示地址：[http://easyadmin.99php.cn/admindemo](http://easyadmin.99php.cn/admindemo)（账号：admin，密码：123456。备注：只有查看信息的权限）
- 
-## 代码仓库
-
-* GitHub地址：[https://github.com/zhongshaofa/easyadmin](https://github.com/zhongshaofa/easyadmin)
-
-* Gitee地址：[https://gitee.com/zhongshaofa/easyadmin](https://gitee.com/zhongshaofa/easyadmin)
 
 
 ## 项目特性
@@ -84,9 +57,3 @@
 * CKEditor：[https://github.com/ckeditor/ckeditor4](https://github.com/ckeditor/ckeditor4)
 
 * Echarts：[https://github.com/apache/incubator-echarts](https://github.com/apache/incubator-echarts)
-  
- ## 捐赠支持
- 
-开源项目不易，若此项目能得到你的青睐，可以捐赠支持作者持续开发与维护，感谢所有支持开源的朋友。
-
- ![Image text](https://chung-common.oss-cn-beijing.aliyuncs.com/donate_qrcode.png)
